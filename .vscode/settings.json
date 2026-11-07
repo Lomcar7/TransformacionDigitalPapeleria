@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/fc032137-983c-4515-af52-a52acf022e2a/resourceGroups/appsvc_linux_westus3/providers/Microsoft.Web/sites/papeleria-inteligente-lomcar7",
+    "appService.deploySubpath": "."
+}
