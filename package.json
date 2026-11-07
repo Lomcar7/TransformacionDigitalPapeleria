@@ -1,0 +1,12 @@
+{
+  "name": "transformacion-digital-papeleria",
+  "version": "1.0.0",
+  "description": "Sistema de inventario y asistente IA para papelería",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Carlos",
+  "license": "MIT"
+}
